@@ -1,0 +1,8 @@
+.review-orders{
+    width: 80%;
+    margin: auto;
+    box-shadow: 0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+.viewOrders{
+    margin-bottom: 50px;
+}

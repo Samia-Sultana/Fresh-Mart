@@ -1,0 +1,39 @@
+.manage-product{
+    height: 100%;
+    background-color: white;
+}
+.heading{
+    height: 15%;
+}
+.heading h1{
+    padding-top: 35px;
+    font-size:5vh;
+    margin-left:60px ;
+}
+.table-container{
+    background-color:rgb(171, 221, 243);
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    max-height: 85%;
+    overflow: auto;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 8px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+    width:90%;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    /* Apply cell spacing */
+  }
+  .thead{
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+

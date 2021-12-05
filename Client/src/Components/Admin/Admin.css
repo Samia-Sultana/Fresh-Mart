@@ -1,0 +1,7 @@
+.admin{
+    height: inherit;
+    display: flex;
+}
+.conditionalRoute{
+    flex-grow: 3;
+}

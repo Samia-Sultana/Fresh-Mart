@@ -1,0 +1,52 @@
+.addProduct{
+    height: 100%;
+}
+.heading{
+    height: 15%;
+}
+.heading h1{
+    padding-top: 35px;
+    font-size:5vh;
+    margin-left:60px ;
+}
+.productForm{
+    height: 85%;
+    background-color: rgb(217, 226, 230);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+.product{
+    width: 90%;
+    height: 40%;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+}
+
+.inputs{
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 7px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.inputs div{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+input:not(.save){
+    width: 400px;
+    height: 40px;
+    border-radius: 6px;
+}
+.save{
+    background-color: rgb(96, 148, 19);
+    margin-top: 10px;
+    border-radius: 4px;
+    padding: 5px;
+}
